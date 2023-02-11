@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 158785373
+    locked: 0
+  - name: Level
+    uniqueID: 766302953
+    locked: 0
+  - name: Player
+    uniqueID: 65697475
+    locked: 0
