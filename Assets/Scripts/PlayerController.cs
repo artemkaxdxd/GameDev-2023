@@ -78,7 +78,7 @@ public class PlayerController : MonoBehaviour
     if (_grounded && jump)
     {
       // Add a vertical force to the player.
-      _grounded = false;
+      _grounded = true;
       _rigidbody2D.AddForce(new Vector2(0f, _jumpForce));
     }
   }
